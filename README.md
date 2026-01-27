@@ -491,6 +491,9 @@ For issues and questions:
 
 ## Buy me a cooffe !
 - Buy this app from here Click to buy it.
+  <a href="https://nowpayments.io/payment/?iid=6275814157&source=button" target="_blank" rel="noreferrer noopener">
+    <img src="https://nowpayments.io/images/embeds/payment-button-black.svg" alt="Crypto payment button by NOWPayments">
+</a>
 ---
 
 Built with ❤️ using Firebase, HTML, CSS, and JavaScript
