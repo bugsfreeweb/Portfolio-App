@@ -18,7 +18,7 @@ A comprehensive Firebase-powered admin dashboard for the Bugsfree portfolio webs
 - **Profile-Specific Sections**: Each profile type shows relevant sections only
   - Developer: Projects, Skills, Achievements, GitHub Integration
   - Photographer: Clients, Photo Credits, Equipment Showcase, Gallery
-  - Designer, Freelancer, Writer: Customized section visibility
+  - Designer, Freelancer, Writer: Customized section visibility (Under development)
 - **Persistent Settings**: Portfolio type saved to Firestore for cross-device consistency
 - **Dynamic Sidebar**: Navigation updates based on selected profile type
 
